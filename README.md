@@ -1,6 +1,6 @@
 # CS_GO-Gamers-Performance-Analysis
 
-Introduction
+## Introduction
 Teaming up with the right people is the key to winning and ranking up in
 competitive e-sports. Professional team member recruitment in CSGO has a very similar dynamic as the
 job market in our real world where more skilled players are generally more valuable and attractive to team
@@ -17,6 +17,6 @@ the games ranking system on early stage, so that professional team owners can ta
 have a better chance to get the matching talents before they are taken. This can also be used to check new
 players’ potential ranking who have not collected 10 wins to get their first placement.
 
-Keywords
+## Keywords
 Network correlation matrix; Global clustering coefficient; Tree based classification models; K-fold cross
 validation, High potential players identification.
